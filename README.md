@@ -20,11 +20,9 @@
 |-------------------------|  --------|---|
 |Preprocessing         |code python pour la collecte  + nettoyage/preprocessing de données |Python|
 |EDA + BDD        |code python pour l'insertion des données dans la BDD + exploitations /visualisations |Python, SQL|
-|Outils de gestion de Projet         |Présentation des différents outils de gestion de projet |Jira|
-|Github         |Création et démonstration de l'utilité d'un Github |Github|
-|Base de Données         |Récupérer un jeu de données CSV lié à l'activité du client afin de créer une base de données SQL et de démontrer les requêtes habituelles |MySQL|
-|Python        |Plusieurs Jupyter Notebooks pour expliquer le fonctionnement des scripts Python de base |Python|
-|Proposition globale         |Conclusion globale et proposition d’accompagnement afin de digitaliser l’activité du client |-|
+|Gestion de Projet         |Gestion de projet |Jira|
+|Github         |Repo du projet |Github|
+|Présentation         |Présentation des résultats |Morph Transition|
 
 --------------------------------------------------------------------------------
 
@@ -35,7 +33,7 @@
 - [SQL](https://sql.sh/) 
 - [Jira](https://www.atlassian.com/fr/agile/tutorials) 
 - [Github](https://docs.github.com/en)
-- [Git](https://www.atlassian.com/fr/git)
+- [Machine Learning]([https://www.atlassian.com/fr/git](https://www.kaggle.com/learn/intro-to-machine-learning))
 
 --------------------------------------------------------------------------------
 
