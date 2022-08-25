@@ -18,8 +18,8 @@
 
 | Tâche                     | Description|Languages/Outils|
 |-------------------------|  --------|---|
-|Remise en contexte         |Remise en contexte de la demande clients |-|
-|Présentation des métiers         |Présentation des différents profils impliqués dans un projet data |-|
+|Preprocessing         |code python pour la collecte  + nettoyage/preprocessing de données |Python|
+|EDA + BDD        |code python pour l'insertion des données dans la BDD + exploitations /visualisations |Python, SQL|
 |Outils de gestion de Projet         |Présentation des différents outils de gestion de projet |Jira|
 |Github         |Création et démonstration de l'utilité d'un Github |Github|
 |Base de Données         |Récupérer un jeu de données CSV lié à l'activité du client afin de créer une base de données SQL et de démontrer les requêtes habituelles |MySQL|
