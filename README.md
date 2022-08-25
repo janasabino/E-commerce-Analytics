@@ -49,6 +49,6 @@ Sqlalchemy 1.4.9
 
 ## Collaborateurs
 
- - [Claudia](https://github.com/75andybermond) 
+ - [Claudia](https://github.com/ClaudiaUntesu) 
  - [Janaina](https://github.com/janasabino/) 
  - [Samia](https://github.com/SamSam2107) 
