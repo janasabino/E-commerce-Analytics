@@ -1,6 +1,10 @@
-# E-commerce-Analytics
+# E-commerce Analytics
+
+![Wish](https://theme.zdassets.com/theme_assets/599460/a0ec254689e60838a15fe1d17d09b1b03087db07.png)
 
 ## Ressources et Documentation
+
+[Kaggle](https://www.kaggle.com/code/armyna/wish-dataset-analysis)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white)
