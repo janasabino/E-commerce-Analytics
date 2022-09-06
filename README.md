@@ -22,7 +22,7 @@
 |-------------------------|  --------|---|
 |Preprocessing         |code python pour la collecte  + nettoyage/preprocessing de données |Python|
 |EDA + BDD        |code python pour l'insertion des données dans la BDD + exploitations /visualisations |Python, SQL|
-|Gestion de Projet         |Gestion de projet |Jira|
+|Gestion de Projet         |Gestion de projet |[Jira](https://janasabino.atlassian.net/jira/software/projects/ECA/boards/1)|
 |Github         |Repo du projet |Github|
 |Présentation         |Présentation des résultats |Morph Transition|
 
