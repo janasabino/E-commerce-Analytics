@@ -28,6 +28,8 @@
 
 --------------------------------------------------------------------------------
 
+Des [issues](https://github.com/janasabino/E-commerce-Analytics/issues) et une [wiki de veille sur les sujets du projet](https://github.com/janasabino/E-commerce-Analytics/wiki) a été mise en place
+
 ## Collaborateurs
 
  - [Claudia](https://github.com/ClaudiaUntesu) 
